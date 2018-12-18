@@ -1,0 +1,118 @@
+[
+  {
+    "description": "Pas du surprise pour ce numero 1 des pays les plus touristiques du monde, la France. Avec ses 38 sites inscrits au patrimoine mondial de l’UNESCO (en 2013), la France accueille chaque annee pres de 83 millions de touristes. Renommee pour sa gastronomie, ses monuments connus dans le monde entier, comme la tour Eiffel, Notre Dame de Paris et bien d’autre, la France prend donc la tete de ce classement, pas etonnant quand on sait que la France est peut-etre le plus beau pays du monde.",
+    "description2":"La France, pays de l'Europe occidentale, compte des villes médiévales, des villages alpins et des plages. Paris, sa capitale, est célèbre pour ses maisons de mode, ses musées d'art classique, dont celui du Louvre, et ses monuments comme la Tour Eiffel. Le pays est également réputé pour ses vins et sa cuisine raffinée. Les peintures rupestres des grottes de Lascaux, le théâtre romain de Lyon et l'immense château de Versailles témoignent de sa riche histoire.",
+    "id": "0",
+    "imgdetails": "countries/img/france.jpg",
+    "img":"/img/france.jpg",
+    "name": "France",
+    "distance": "On y est !",
+    "review": "5",
+    "label":"countries/img/fr.png",
+    "continent":"Europe",
+    "budget":"€€€",
+    "climat":"tempéré",
+    "favoris":"0",
+    "Latitude" : "46",
+    "Longitude" : "2",
+    "gastronomie":"\u2605\u2605\u2605\u2605\u2605"
+  },
+
+  {
+    "description": "Réunissant près de 64 millions de touristes, les États-Unis possèdent 21 sites classés au patrimoine mondial de l’UNESCO. Principalement appréciés des touristes les parcs naturels y sont nombreux comme Yellowstone, Monument Valley.",
+    "description2":"Les États-Unis sont un pays constitué de 50 états et couvrant une vaste portion de l'Amérique du Nord, avec l'Alaska au nord-ouest et Hawaï étendant la présence du pays dans l'océan Pacifique. Les principales villes de la côte atlantique sont New York, centre international financier et culturel, et Washington, la capitale. Dans la région du Midwest, la métropole de Chicago est connue pour son architecture influente et sur la côte ouest, le quartier d'Hollywood à Los Angeles est célèbre pour ses studios de cinéma.",
+    "id": "1",
+    "imgdetails": "countries/img/etats_unis.jpg",
+    "img":"/img/etats_unis.jpg",
+    "name": "Etats Unis",
+    "distance": "7 661 km",
+    "review": "5",
+    "label":"countries/img/us.png",
+    "continent":"Amérique du nord",
+    "budget":"€€€",
+    "climat":"tempéré",
+    "favoris":"0",
+    "Latitude" : "37",
+    "Longitude" : "-100",
+
+    "gastronomie":"\u2605"
+  },
+
+  {
+    "description": "La Chine fait partie des pays possédant le plus de sites au patrimoine mondial de l’UNESCO. La Chine en totalise 45. La Chine possède l’un des monuments les plus visité au monde : la muraille de Chine, qui fait également partie des nouvelles merveilles du monde.",
+    "description2": "La Chine est un pays très peuplé d’Asie de l’est. Son territoire immense présente des paysages variés : prairies, déserts, montagnes, lacs, rivières et plus de 14 000 km de littoral. Pékin, la capitale à l’architecture moderne, conserve également des sites historiques, comme le palais de la Cité interdite et la place Tian Anmen. Shanghaï est l'un des plus grands centres financiers mondiaux et comporte de nombreux gratte-ciels. L’emblématique Grande Muraille de Chine partage le nord du pays d’est en ouest.",
+    "id": "2",
+    "imgdetails": "countries/img/chine.jpg",
+    "img":"/img/chine.jpg",
+    "name": "Chine",
+    "distance": "8 212 km",
+    "review": "4",
+    "label":"countries/img/cn.png",
+    "continent":"Asie",
+    "budget":"€€",
+    "climat":"tempéré",
+    "favoris":"0",
+    "Latitude" : "27.3338",
+    "Longitude" : "128.5697",
+    "gastronomie":"\u2605\u2605"
+  },
+
+  {
+    "description":"L’Italie est le pays numéro 1 des sites classés au patrimoine mondial de l’UNESCO. Ce pays possède 49 sites classés. Notamment dût a son passé durant l’antiquité romaine, l’Italie possède une histoire riche en monuments et lieux antiques. C’est le cas de sa plus grande île : La Sicile, qui attirent chaque année de nombreux touristes venus découvrir ses merveilles comme ses fameuses îles éoliennes.",
+    "description2":"L'Italie, pays européen bordé par la Méditerranée et l'Adriatique, a laissé une forte empreinte sur la culture et la cuisine occidentales. Sa capitale, Rome, abrite le Vatican ainsi que des trésors artistiques et des ruines antiques. Les autres grandes villes comprennent Florence, avec des chefs-d'œuvre de la Renaissance comme le David de Michel-Ange et le dôme de Brunelleschi, Venise, la ville des canaux, et Milan, la capitale italienne de la mode.",
+    "id": "3",
+    "imgdetails": "countries/img/italie.jpg",
+    "img":"/img/italie.jpg",
+    "name": "Italie",
+    "distance": "1 420,5 km",
+    "review": "4",
+    "label":"countries/img/it.png",
+    "continent":"Europe",
+    "budget":"€€",
+    "climat":"tempéré",
+    "favoris":"0",
+    "Latitude" : "42",
+    "Longitude" : "13",
+    "gastronomie":"\u2605\u2605\u2605\u2605"
+  },
+
+  {
+    "description":"Avec 11 sites classés au patrimoine mondial de l’UNESCO, la Turquie se classe 6éme de notre classement des pays les plus visités du monde et accueille chaque année plus de 36 millions de touristes. Forte de ces stations balnéaires et de sa ville phare, Istanbul, la Turquie est une destination à la mode.",
+    "description2":"La Turquie s'étend de l'Europe de l'Est à l'Asie Mineure. Culturellement, elle est liée aux anciens empires grec, perse, romain, byzantin et ottoman. Istanbul, ville cosmopolite sur le détroit du Bosphore, abrite la célèbre église Sainte-Sophie, avec sa coupole aérienne et ses mosaïques chrétiennes, la gigantesque Mosquée bleue du XVIIe siècle et le palais de Topkapı (env. 1460), ancienne demeure des sultans. Ankara est la capitale de la Turquie moderne.",
+    "id": "4",
+    "imgdetails": "countries/img/turquie.jpg",
+    "img":"/img/turquie.jpg",
+    "name": "Turquie",
+    "distance":"3 253,5 km",
+    "review": "3",
+    "label":"countries/img/tr.png",
+    "continent":"Europe",
+    "budget":"€",
+    "climat":"tempéré",
+    "favoris":"0",
+    "Latitude" : "38.929",
+    "Longitude" : "33.823",
+    "gastronomie":"\u2605\u2605\u2605"
+  },
+
+  {
+    "description":"Le Royaume-Uni prend la 7éme place de notre classement des pays les plus touristiques du monde. Avec 29,2 millions de touristes, le Royaume-Uni reste très populaire dans le monde avec 28 sites classé au patrimoine mondial de l’UNESCO.",
+    "description2":"Le Royaume-Uni, composé de l'Angleterre, de l'Écosse, du Pays de Galles et de l'Irlande du Nord, est un pays insulaire au nord-ouest de l'Europe. L'Angleterre, berceau de Shakespeare et des Beatles, comprend Londres comme capitale, centre financier et culturel à l'influence mondiale. Elle offre également les cercles de pierres de Stonehenge, les thermes romains de Bath et les universités vieilles de plusieurs siècles d'Oxford et de Cambridge.",
+    "id": "5",
+    "imgdetails": "countries/img/royaume_unis.jpg",
+    "img":"/img/royaume_unis.jpg",
+    "name": "Royaume-Uni",
+    "distance": "342,87 km",
+    "review": "2",
+    "label":"countries/img/gb.png",
+    "continent":"Europe",
+    "budget":"€€",
+    "climat":"tempéré",
+    "favoris":"0",
+    "Latitude" : "51",
+    "Longitude" : "-2",
+    "gastronomie":"★★★"
+  }
+
+
+]
